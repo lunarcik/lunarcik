@@ -1,9 +1,9 @@
 <div align="center">
-<img width="90%" src= "https://readme-typing-svg.herokuapp.com?font=Exo+2&pause=1000&center=true&width=435&height=80&lines=lunarcimharikasin.;%3C3;historiâ">
+<img width="90%" src= "https://readme-typing-svg.herokuapp.com?font=Exo+2&pause=1000&center=true&width=435&height=80&lines=lunar.;%3C3;historiâ.">
 </div>
 
-<h1 align="center">Hi 👋, I'm lunarcimharikasin</h1>
-<h3 align="center">lunarcimharikasin on the top</h3>
+<h1 align="center">Hi 👋, I'm lunar</h1>
+<h3 align="center">lunar on the top</h3>
 
 <div align="center">
 </div>
@@ -15,15 +15,15 @@
 #
 
 ```js
-class lunarcimharikasin {
+class lunar {
 constructor(options) {
 this.name = "Furkan",
 this.age = 18,
-this.discord = "lunarcimharikasin",
+this.discord = "kaybedilmez.",
 this.discordId = "1224382079500947537"
   };
 }
-module.exports = lunarcimharikasin;
+module.exports = lunar;
 ```
 
 #
