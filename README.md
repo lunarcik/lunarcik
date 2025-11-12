@@ -29,8 +29,8 @@ module.exports = lunar;
 #
 
 <div align="center">
-<img src="https://api.lanyard.rest/v1/users/1224382079500947537" width="45%" style="vertical-align: top;">
-
+<img src="https://lanyard-profile-readme.vercel.app/api/1224382079500947537?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." width="45%" style="vertical-align: top;">
+<img src="https://lanyard-profile-readme.vercel.app/api/1051217166134935632?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." width="45%" style="vertical-align: top;">
   </a>
 </div>
 
