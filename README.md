@@ -25,7 +25,5 @@ this.discordId = "1224382079500947537"
 }
 module.exports = lunar;
 ```
-
-#
 <div align="left">
 </div>
