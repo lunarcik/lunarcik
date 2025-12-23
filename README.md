@@ -12,7 +12,7 @@ module.exports = lunar;
 
 #
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1333103475139285034/1453115142849040527/Screenshot_2025-12-23-23-00-20-430_com.lemon.lvoverseas-edit.jpg?ex=694c466f&is=694af4ef&hm=466056eea3bd29144c1523c499602ba86e051e3eb053d411600418ce4a298244&" width="45%" style="vertical-align: top;">
+<img src="https://cdn.discordapp.com/attachments/1333103475139285034/1453117107951898654/Screenshot_2025-12-23-23-07-57-124_com.lemon.lvoverseas-edit.jpg?ex=694c4844&is=694af6c4&hm=7bd424a3196216a55fcbd38843a68ba83320fd6871f6a30da9b6169596a1e7d4&" width="45%" style="vertical-align: top;">
 
 #  
 <div align="center">
