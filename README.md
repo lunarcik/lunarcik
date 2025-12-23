@@ -2,8 +2,9 @@
 <img width="90%" src= "https://readme-typing-svg.herokuapp.com?font=Exo+2&pause=1000&center=true&width=435&height=80&lines=lunar.;%3C3;historiâ.">
 </div>
 
-<h1 align="center">Hi 👋, I'm lunar</h1>
-<h3 align="center">lunar on the top</h3>
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/1333103475139285034/1453106094988591247/Screenshot_2025-12-23-17-53-15-388_com.lemon.lvoverseas-edit.jpg?ex=694c3e02&is=694aec82&hm=1d3982cfe14b25ced8e2a2b4a0ba856701236b412841617f49eced42af924025&" width="45%" style="vertical-align: top;">   
+<h3 align="center">lunar is never lose.</h3>
 
 <div align="center">
 </div>
@@ -33,8 +34,6 @@ module.exports = lunar;
 <img src="https://lanyard-profile-readme.vercel.app/api/1051217166134935632?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." width="45%" style="vertical-align: top;">
   </a>
 </div>
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/1333103475139285034/1453106094988591247/Screenshot_2025-12-23-17-53-15-388_com.lemon.lvoverseas-edit.jpg?ex=694c3e02&is=694aec82&hm=1d3982cfe14b25ced8e2a2b4a0ba856701236b412841617f49eced42af924025&" width="45%" style="vertical-align: top;">
 
 <div align="left">
 </div>
